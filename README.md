@@ -2,6 +2,12 @@
 
 ### What is the goal of this project?
 
+I want to learn machine learning as fast as possible, because of its usefulness
+in basically any field of computer science. I want to finish this project in
+one semester with a deeper understanding of the past, present, and future developments
+in machine learning. I want to finish this project with a few machine learning projects
+built from scratch that I can show off. In the short term, I suppose 
+
 ### What is the timeline of this project?  
 
 - Week 1 (Jan 17 - 23):  
