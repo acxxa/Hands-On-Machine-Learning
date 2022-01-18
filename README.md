@@ -6,7 +6,12 @@ I want to learn machine learning as fast as possible, because of its usefulness
 in basically any field of computer science. I want to finish this project in
 one semester with a deeper understanding of the past, present, and future developments
 in machine learning. I want to finish this project with a few machine learning projects
-built from scratch that I can show off. In the short term, I suppose 
+built from scratch that I can show off. In the short term, I suppose all of this needs
+to contribute to my employability regarding internships. However, in the long term,
+I hope this project will become the solid foundation from which I build and create 
+the rest of my machine learning knowledge. 
+
+To myself, godspeed.
 
 ### What is the timeline of this project?  
 
@@ -78,4 +83,6 @@ built from scratch that I can show off. In the short term, I suppose
   - *Note: this is finals week.*
 
 
-### Idk what else to think about
+### Concluding Thoughts
+
+We'll see if I can finish this first.
