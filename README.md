@@ -16,10 +16,10 @@ To myself, godspeed.
 ### What is the timeline of this project?  
 
 - Week 1 (Jan 17 - 23):  
-  - [ ] Setup Github repository with organized folders and a rough timeline.
-  - [ ] Setup vscode enviorment with Jupyter Notebook.
-  - [ ] Read Chapter 1.
-  - [ ] Complete Chapter 1 exercises.
+  - [x] Setup Github repository with organized folders and a rough timeline.
+  - [x] Setup vscode enviorment with Jupyter Notebook.
+  - [x] Read Chapter 1.
+  - [x] Complete Chapter 1 exercises.
 
 - Week 2 (Jan 24 - 30):
   - [ ] Read Chapter 2.
