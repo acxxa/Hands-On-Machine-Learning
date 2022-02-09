@@ -22,15 +22,18 @@ To myself, godspeed.
   - [x] Complete Chapter 1 exercises.
 
 - Week 2 (Jan 24 - 30):
+  - [x] No work done. Saddness.
   - [ ] Read Chapter 2.
   - [ ] Complete End-to-End Machine Learning Project.
   - [ ] Complete Chapter 2 Exercises.
 
 - Week 3 (Jan 31 - Feb 6):
+  - [x] No work done. Saddness.
   - [ ] Read Chapter 3.
   - [ ] Complete Chapter 3 exercises.
 
 - Week 4 (Feb 7 - 13):
+  - [x] No work done. Saddness.
   - [ ] Read Chapter 4.
   - [ ] Complete Chapter 4 exercises.
 
